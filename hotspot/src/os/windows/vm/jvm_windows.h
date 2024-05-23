@@ -42,6 +42,7 @@
 #endif
 #endif
 
+#include <winsock2.h>
 #include <windows.h>
 
 #if _MSC_VER <= 1200
